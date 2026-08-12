@@ -1,0 +1,6 @@
+{
+  "name": "WAEC AI Tutor",
+  "description": "Your AI-powered study partner for WAEC preparation in West Africa.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
